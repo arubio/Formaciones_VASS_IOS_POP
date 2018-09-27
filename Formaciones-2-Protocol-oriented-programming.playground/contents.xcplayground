@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered' executeOnSourceChanges='false'>
+    <pages>
+        <page name='Intro'/>
+        <page name='Value-types vs Reference-types'/>
+        <page name='Polimorfismo por herencia'/>
+        <page name='Polimorfismo por protocolos'/>
+        <page name='Protocol extensions'/>
+    </pages>
+</playground>
